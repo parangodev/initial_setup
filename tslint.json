@@ -1,0 +1,21 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-config-standard"
+    ],
+    "jsRules": {
+        "eofline": false,
+        "quotemark": [
+            true,
+            "single"
+        ]
+    },
+    "rules": {
+        "semi": false, 
+        "tabWidth": 2, 
+        "printWidth": 100, 
+        "singleQuote": true, 
+        "trailingComma": "none"
+    },
+    "rulesDirectory": []
+}
